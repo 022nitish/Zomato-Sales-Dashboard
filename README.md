@@ -1,3 +1,5 @@
+![Screenshot 2025-05-05 160112](https://github.com/user-attachments/assets/7ae7bae9-8a0f-4855-befd-ba941619fc5b)
+
 This dashboard brings together multiple insights from food delivery data across India, helping analyze restaurant performance, sales trends, and customer voting patterns.
 
 🔍 Key Insights Delivered:
